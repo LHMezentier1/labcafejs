@@ -1,0 +1,21 @@
+{
+  "name": "laboratorio_cafeteria_tdd",
+  "version": "1.0.0",
+  "description": "Arquivos: produtos.json (50 itens), index.html, style.css e app.js.",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.7",
+    "jest": "^30.5.2",
+    "jest-environment-jsdom": "^30.5.2"
+  },
+  "type": "commonjs"
+}
